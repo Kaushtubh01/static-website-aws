@@ -39,5 +39,3 @@ User → CloudFront (CDN) → S3 Bucket (Static Website)
 5. Latest website changes are reflected globally  
 
 ---
-
-## 📂 Repository Structure
